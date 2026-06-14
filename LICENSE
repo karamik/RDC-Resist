@@ -1,0 +1,47 @@
+PROPRIETARY LICENSE – RDC-Resist Technology
+Copyright (c) 2025 International Group of Developers
+
+ALL RIGHTS RESERVED.
+
+1. DEFINITIONS
+   "Technology" means any and all materials, documentation, source code, scripts, chemical formulas, synthesis protocols, simulation data, design drawings, performance metrics, and related know-how contained in this repository or otherwise disclosed by Licensor, including but not limited to the RDEA mechanism, organometallic cluster compositions, and process conditions for EUV lithography.
+
+   "Licensee" means any person or legal entity that accesses, views, copies, or otherwise obtains the Technology.
+
+2. GRANT OF RIGHTS
+   Licensor grants Licensee a non-exclusive, non-transferable, revocable right to access and read the Technology for the sole purpose of evaluation of a potential collaboration or licensing agreement. No other rights are granted.
+
+3. PROHIBITED ACTIONS
+   Without explicit prior written consent from Licensor, Licensee SHALL NOT:
+   a) Use the Technology for any commercial, manufacturing, or research & development purpose other than internal evaluation;
+   b) Copy, reproduce, distribute, publicly display, or transmit the Technology or any portion thereof;
+   c) Modify, adapt, translate, or create derivative works based on the Technology;
+   d) Reverse engineer, decompile, disassemble, or otherwise attempt to derive the chemical composition, synthetic routes, or electron trap structures described or implied;
+   e) Use the Technology to train any artificial intelligence, machine learning model, or knowledge base;
+   f) Sublicense, sell, rent, lease, or loan the Technology or any rights hereunder;
+   g) Remove or alter any proprietary notices, watermarks, or legends.
+
+4. CONFIDENTIALITY
+   The Technology contains trade secrets and confidential information. Licensee agrees to maintain the Technology in strict confidence, using at least the same degree of care as for its own most confidential information, but in no event less than reasonable care. Licensee shall not disclose the Technology to any third party without Licensor's written authorisation.
+
+5. PATENT AND IP RIGHTS
+   Licensor has filed provisional patent applications (including US 63/xxx,xxx) covering the core inventions. Nothing in this License constitutes a license or implied right under any patent, trademark, or other intellectual property right of Licensor. Any use that infringes Licensor's patents or pending applications is expressly forbidden.
+
+6. NO WARRANTY
+   THE TECHNOLOGY IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE TECHNOLOGY WILL OPERATE UNINTERRUPTED OR ERROR-FREE.
+
+7. LIABILITY DISCLAIMER
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF PROFITS, DATA, OR BUSINESS INTERRUPTION) ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE TECHNOLOGY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION
+   This License is effective until terminated. Licensor may terminate this License immediately upon breach by Licensee. Upon termination, Licensee must destroy all copies of the Technology, including any extracts or derivatives.
+
+9. GOVERNING LAW
+   This License shall be governed by the laws of the Netherlands (for disputes related to EUV technology) or at Licensor's option, the laws of the jurisdiction where Licensee resides, whichever provides stronger protection for Licensor's intellectual property.
+
+10. CONTACT FOR COMMERCIAL LICENSES
+    Any party wishing to obtain a commercial license (e.g., for manufacturing, joint development, or resale) must contact Licensor at:
+    Email: totalprotocol@proton.me
+    Telegram: @tec_support_bot
+
+--- END OF LICENSE ---
